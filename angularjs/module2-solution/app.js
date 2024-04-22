@@ -37,8 +37,7 @@
       { name: "Neeps", quantity: 2 }, 
       { name: "Tatties", quantity: 3 }, 
       { name: "Drams", quantity: 4 }, 
-      { name: "Tablet", quantity: 5 }, 
-      { name: "Fudge", quantity: 6 }
+      { name: "Tablet", quantity: 5 }
     ];
 
     var itemsBought = [];
