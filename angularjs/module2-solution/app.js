@@ -38,11 +38,7 @@
       { name: "Tatties", quantity: 3 }, 
       { name: "Drams", quantity: 4 }, 
       { name: "Tablet", quantity: 5 }, 
-      { name: "Fudge", quantity: 6 }, 
-      { name: "Jelly Babies", quantity: 7 }, 
-      { name: "Salt & Vinegar Crisps", quantity: 8 }, 
-      { name: "Ale", quantity: 9 }, 
-      { name: "Plum Pudding", quantity: 10 } 
+      { name: "Fudge", quantity: 6 }
     ];
 
     var itemsBought = [];
