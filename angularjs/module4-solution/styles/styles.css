@@ -1,9 +1,16 @@
-.narrow-table {
-    width: 50%;
-    margin: auto;
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: antiquewhite;
 }
 
-.wide-table {
-    width: 80%;
-    margin: auto;
+h1{
+  font-size: 3.5em;
+}
+
+a{  
+  font-weight: bold;  
+  font-size: 1.2em;
 }
